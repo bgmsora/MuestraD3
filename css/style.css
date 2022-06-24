@@ -1,0 +1,244 @@
+@font-face {
+    font-family: "Anime Ace";
+    src: url("../css/animeace2_reg.otf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+html {
+    --annotation-title-font-size: 15px;
+    --annotation-label-font-size: 13px;
+}
+
+
+/*No se ven las lineas si se cambia por aqui*/
+
+.graph-svg-component {
+    background-color: #ccccb4;
+}
+
+
+/************* general *************/
+
+body {
+    font-weight: 400;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.outer-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1600px;
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+}
+
+.anime {
+    font-family: 'Anime Ace', monospace;
+}
+
+.pink {
+    color: #eb547f;
+}
+
+.green {
+    color: #4fb127;
+}
+
+.yellow {
+    color: #F6B42B;
+}
+
+
+/************* title & top *************/
+
+#title-container {
+    position: relative;
+    width: 50%;
+}
+
+#title {
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+
+/************* chart *************/
+
+#chart-container {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+@media screen and (max-width: 400px) {
+    #chart-container {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+}
+
+#chart {
+    position: relative;
+}
+
+#chart svg {
+    font-family: 'Anime Ace', monospace;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    overflow: visible;
+}
+
+canvas {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.name-label {}
+
+.last-name-label {
+    fill: #b9b9b9;
+}
+
+.chapter-number {
+    fill: white;
+    /*El color del numero*/
+}
+
+.card-label {
+    cursor: default;
+    pointer-events: none;
+}
+
+.card-legend {
+    fill: #a1a1a1;
+}
+
+.volume-arc {
+    fill: none;
+    stroke-linecap: round;
+}
+
+.annotation-group {
+    pointer-events: none;
+}
+
+.annotation-note-title {
+    font-size: 14px;
+    font-size: var(--annotation-title-font-size);
+    font-weight: 400;
+}
+
+.annotation-note-label {
+    font-size: 13px;
+    font-size: var(--annotation-label-font-size);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.annotation-circle {
+    fill: none;
+    stroke-dasharray: 0, 5;
+    stroke-linecap: round;
+}
+
+@font-face {
+    font-family: "DinProBold";
+    src: url("../css/DINPro-Bold.otf");
+    font-size: 25pt;
+    line-height: 30pt;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DinProReg";
+    src: url("../css/DINPro-Regular.otf");
+    font-size: 23pt;
+    line-height: 27.6pt;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "RobotoCond";
+    src: url("../css/RobotoCondensed-Light.ttf");
+    font-size: 20pt;
+    line-height: 24pt;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "RobotoCondReg";
+    src: url("../css/RobotoCondensed-Regular.ttf");
+    font-size: 16pt;
+    line-height: 19.5pt;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "RobotoCondBold";
+    src: url("../css/RobotoCondensed-Bold.ttf");
+    font-size: 16pt;
+    line-height: 24pt;
+    font-style: normal;
+}
+
+body {
+    /*font: 12px sans-serif;*/
+}
+
+svg {
+    margin: 0px auto;
+    display: block;
+}
+
+path.arc {
+    opacity: 0.9;
+    transition: opacity 0.5s;
+}
+
+path.arc:hover {
+    opacity: 0.7;
+}
+
+.axis line,
+.axis circle {
+    stroke: #cccccc;
+    stroke-width: 1px
+}
+
+.axis circle {
+    fill: none;
+}
+
+.r.axis text {
+    text-anchor: end
+}
+
+.tooltip {
+    position: absolute;
+    display: none;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 3px;
+    box-shadow: -3px 3px 15px #888;
+    color: white;
+    padding: 6px;
+}
+
+.graph-svg-component {
+    background-color: #f8f4ec;
+}
+
+#chartBar {
+    background-color: #d0ccb4;
+}

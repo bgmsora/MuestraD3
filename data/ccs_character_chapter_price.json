@@ -1,0 +1,133 @@
+[
+
+    { "character": "Distrito", "chapter": 29, "price": [1] },
+    { "character": "Distrito", "chapter": 21, "price": [2, 3] },
+    { "character": "Distrito", "chapter": 18, "price": [1, 4, 2] },
+    { "character": "Distrito", "chapter": 27, "price": [2, 3] },
+    { "character": "Distrito", "chapter": 22, "price": [1, 2] },
+    { "character": "Distrito", "chapter": 25, "price": [1, 2, 3] },
+    { "character": "Distrito", "chapter": 3, "price": [1] },
+    { "character": "Distrito", "chapter": 19, "price": [2] },
+
+    { "character": "People", "chapter": 1, "price": [2, 3, 4] },
+    { "character": "People", "chapter": 29, "price": [2, 3] },
+    { "character": "People", "chapter": 28, "price": [4] },
+    { "character": "People", "chapter": 26, "price": [2] },
+    { "character": "People", "chapter": 20, "price": [1, 2] },
+
+    { "character": "A la Montaña", "chapter": 12, "price": [1] },
+    { "character": "A la Montaña", "chapter": 11, "price": [1] },
+    { "character": "A la Montaña", "chapter": 23, "price": [3] },
+    { "character": "A la Montaña", "chapter": 5, "price": [1] },
+    { "character": "A la Montaña", "chapter": 17, "price": [1, 2] },
+    { "character": "A la Montaña", "chapter": 7, "price": [1] },
+    { "character": "A la Montaña", "chapter": 26, "price": [2] },
+
+
+    { "character": "Transvision", "chapter": 29, "price": [1, 2, 3, 4] },
+    { "character": "Transvision", "chapter": 12, "price": [1] },
+    { "character": "Transvision", "chapter": 32, "price": [1] },
+    { "character": "Transvision", "chapter": 15, "price": [1] },
+
+    { "character": "La Bici", "chapter": 12, "price": [1] },
+    { "character": "La Bici", "chapter": 32, "price": [1, 2, 3, 4, 5, 6] },
+    { "character": "La Bici", "chapter": 10, "price": [1] },
+    { "character": "La Bici", "chapter": 8, "price": [1] },
+    { "character": "La Bici", "chapter": 9, "price": [1] },
+    { "character": "La Bici", "chapter": 14, "price": [1] },
+
+    { "character": "Ciclópolis", "chapter": 29, "price": [2] },
+    { "character": "Ciclópolis", "chapter": 31, "price": [2, 3, 5] },
+    { "character": "Ciclópolis", "chapter": 28, "price": [3, 4, 5] },
+    { "character": "Ciclópolis", "chapter": 12, "price": [1, 2] },
+    { "character": "Ciclópolis", "chapter": 1, "price": [2, 5, 6] },
+
+    { "character": "Chop Chop", "chapter": 24, "price": [1, 2] },
+
+    { "character": "Benotto", "chapter": 13, "price": [1, 3] },
+    { "character": "Benotto", "chapter": 4, "price": [1] },
+    { "character": "Benotto", "chapter": 6, "price": [1] },
+    { "character": "Benotto", "chapter": 30, "price": [3, 4, 5, 6] },
+    { "character": "Benotto", "chapter": 2, "price": [1] },
+    { "character": "Benotto", "chapter": 16, "price": [1] },
+    { "character": "Ruta", "chapter": 29, "price": [1, 2, 3] },
+    { "character": "Ruta", "chapter": 21, "price": [2, 3] },
+    { "character": "Ruta", "chapter": 18, "price": [1, 2, 4] },
+    { "character": "Ruta", "chapter": 22, "price": [2] },
+    { "character": "Ruta", "chapter": 1, "price": [4, 6] },
+    { "character": "Ruta", "chapter": 24, "price": [1] },
+    { "character": "Ruta", "chapter": 13, "price": [1, 3] },
+    { "character": "Ruta", "chapter": 30, "price": [4, 5, 6] },
+    { "character": "Ruta", "chapter": 28, "price": [3, 4, 5] },
+    { "character": "Ruta", "chapter": 31, "price": [2, 3] },
+    { "character": "Ruta", "chapter": 32, "price": [1, 2, 3, 4, 6] },
+    { "character": "Ruta", "chapter": 15, "price": [1] },
+    { "character": "Ruta", "chapter": 12, "price": [1] },
+    { "character": "Ruta", "chapter": 20, "price": [2] },
+    { "character": "Ruta", "chapter": 17, "price": [1] },
+
+    { "character": "Urbana", "chapter": 29, "price": [1] },
+    { "character": "Urbana", "chapter": 3, "price": [1] },
+    { "character": "Urbana", "chapter": 20, "price": [1] },
+    { "character": "Urbana", "chapter": 12, "price": [1] },
+    { "character": "Urbana", "chapter": 32, "price": [1] },
+    { "character": "Urbana", "chapter": 24, "price": [1] },
+    { "character": "Urbana", "chapter": 13, "price": [1] },
+    { "character": "Urbana", "chapter": 4, "price": [1] },
+
+    { "character": "Montaña", "chapter": 29, "price": [1, 3, 4] },
+    { "character": "Montaña", "chapter": 1, "price": [3, 5] },
+    { "character": "Montaña", "chapter": 20, "price": [2] },
+    { "character": "Montaña", "chapter": 12, "price": [1, 2] },
+    { "character": "Montaña", "chapter": 11, "price": [1] },
+    { "character": "Montaña", "chapter": 23, "price": [3] },
+    { "character": "Montaña", "chapter": 5, "price": [1] },
+    { "character": "Montaña", "chapter": 17, "price": [1, 2] },
+    { "character": "Montaña", "chapter": 7, "price": [1] },
+    { "character": "Montaña", "chapter": 32, "price": [5, 6] },
+    { "character": "Montaña", "chapter": 10, "price": [1] },
+    { "character": "Montaña", "chapter": 8, "price": [1] },
+    { "character": "Montaña", "chapter": 31, "price": [5] },
+    { "character": "Montaña", "chapter": 13, "price": [1] },
+    { "character": "Montaña", "chapter": 6, "price": [1] },
+    { "character": "Montaña", "chapter": 30, "price": [6] },
+    { "character": "Montaña", "chapter": 2, "price": [1] },
+    { "character": "Montaña", "chapter": 16, "price": [1] },
+
+    { "character": "Fixie", "chapter": 27, "price": [2, 3] },
+    { "character": "Fixie", "chapter": 22, "price": [1] },
+    { "character": "Fixie", "chapter": 20, "price": [1] },
+    { "character": "Fixie", "chapter": 24, "price": [1] },
+
+    { "character": "Single", "chapter": 27, "price": [2, 3] },
+    { "character": "Single", "chapter": 19, "price": [2] },
+    { "character": "Single", "chapter": 20, "price": [1] },
+    { "character": "Single", "chapter": 9, "price": [1] },
+    { "character": "Single", "chapter": 24, "price": [1] },
+
+    { "character": "Eléctrica", "chapter": 27, "price": [2] },
+    { "character": "Eléctrica", "chapter": 1, "price": [4] },
+    { "character": "Eléctrica", "chapter": 24, "price": [2] },
+
+    { "character": "Turismo", "chapter": 13, "price": [1] },
+    { "character": "Turismo", "chapter": 25, "price": [1, 2, 3] },
+
+    { "character": "Plegable", "chapter": 26, "price": [2] },
+    { "character": "Plegable", "chapter": 12, "price": [1] },
+    { "character": "Plegable", "chapter": 14, "price": [1] },
+    { "character": "Plegable", "chapter": 13, "price": [1] },
+
+    { "character": "Eléctrica ", "chapter": 26, "price": [2] },
+
+    { "character": "Contra", "chapter": 20, "price": [1] },
+
+    { "character": "Cargo", "chapter": 20, "price": [2] },
+
+    { "character": "Tandem", "chapter": 13, "price": [1] },
+
+    { "character": "Híbrida", "chapter": 29, "price": [1] },
+    { "character": "Híbrida", "chapter": 1, "price": [2] },
+    { "character": "Híbrida", "chapter": 20, "price": [2] },
+    { "character": "Híbrida", "chapter": 24, "price": [1] }
+
+]

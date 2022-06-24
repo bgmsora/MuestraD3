@@ -1,0 +1,25 @@
+[
+    { "character": "Transvision", "full_name": "Transvision Bike", "first_name": "Transvision", "last_name": "Bike", "num_chapters": "25", "color": "#de5a44", "type": "" },
+    { "character": "People", "full_name": "People For Bikes", "first_name": "People", "last_name": "For Bikes", "num_chapters": "25", "color": "#de5a44", "type": "magical" },
+    { "character": "La Bici", "full_name": "La Bici Urbana", "first_name": "La Bici", "last_name": "Urbana", "num_chapters": "25", "color": "#de5a44", "type": "guardian" },
+    { "character": "Distrito", "full_name": "Distrito Fijo Club", "first_name": "Distrito", "last_name": "Fijo Club", "num_chapters": "25", "color": "#de5a44", "type": "" },
+    { "character": "Ciclópolis", "full_name": "Ciclópolis", "first_name": "Ciclópolis", "last_name": "", "num_chapters": "25", "color": "#de5a44", "type": "dead" },
+    { "character": "Chop Chop", "full_name": "Chop Chop Bikes", "first_name": "Chop Chop", "last_name": "Bikes", "num_chapters": "25", "color": "#de5a44", "type": "guardian" },
+    { "character": "Benotto", "full_name": "Benotto", "first_name": "Benotto", "last_name": "", "num_chapters": "25", "color": "#de5a44", "type": "magical" },
+    { "character": "A la Montaña", "full_name": "A la Montaña", "first_name": "A la", "last_name": "Montaña", "num_chapters": "25", "color": "#de5a44", "type": "" },
+
+    { "character": "Tandem", "full_name": "Tandem", "first_name": "Tandem", "last_name": "", "num_chapters": "25", "color": "#184434", "type": "" },
+    { "character": "Contra", "full_name": "Contra Pedal", "first_name": "Contra", "last_name": "Pedal", "num_chapters": "25", "color": "#005850", "type": "" },
+    { "character": "Cargo", "full_name": "Cargo", "first_name": "Cargo", "last_name": "", "num_chapters": "25", "color": "#00837B", "type": "" },
+    { "character": "Híbrida", "full_name": "Híbrida", "first_name": "Híbrida", "last_name": "", "num_chapters": "25", "color": "#00A19B", "type": "" },
+    { "character": "Eléctrica ", "full_name": "Eléctrica Plegable", "first_name": "Eléctrica ", "last_name": "Plegable", "num_chapters": "25", "color": "#00BBB4", "type": "" },
+    { "character": "Turismo", "full_name": "Turismo", "first_name": "Turismo", "last_name": "", "num_chapters": "25", "color": "#10CFC9", "type": "" },
+    { "character": "Plegable", "full_name": "Plegable", "first_name": "Plegable", "last_name": "", "num_chapters": "25", "color": "#6BDAD5", "type": "" },
+    { "character": "Urbana", "full_name": "Urbana", "first_name": "Urbana", "last_name": "", "num_chapters": "25", "color": "#007960", "type": "" },
+    { "character": "Fixie", "full_name": "Fixie", "first_name": "Fixie", "last_name": "", "num_chapters": "25", "color": "#009579", "type": "guardian" },
+    { "character": "Eléctrica", "full_name": "Eléctrica", "first_name": "Eléctrica", "last_name": "", "num_chapters": "25", "color": "#00A887", "type": "" },
+    { "character": "Single", "full_name": "Single Speed", "first_name": "Single", "last_name": "Speed", "num_chapters": "25", "color": "#2ED9C3", "type": "" },
+    { "character": "Ruta", "full_name": "Ruta", "first_name": "Ruta", "last_name": "", "num_chapters": "25", "color": "#87E1D1", "type": "magical" },
+    { "character": "Montaña", "full_name": "Montaña", "first_name": "Montaña", "last_name": "", "num_chapters": "25", "color": "#A5E5D9", "type": "guardian" }
+
+]

@@ -1,0 +1,56 @@
+[
+    { "source": "Montaña", "target": "Distrito", "type": "13", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Montaña", "target": "People", "type": "13", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Montaña", "target": "A la Montaña", "type": "13", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Montaña", "target": "Transvision", "type": "13", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Montaña", "target": "Ciclópolis", "type": "13", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Montaña", "target": "Benotto", "type": "13", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Ruta", "target": "Distrito", "type": "12", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Ruta", "target": "People", "type": "12", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Ruta", "target": "A la Montaña", "type": "12", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Ruta", "target": "Transvision", "type": "12", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Ruta", "target": "Ciclópolis", "type": "12", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Ruta", "target": "Chop Chop", "type": "12", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Ruta", "target": "Benotto", "type": "12", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Single", "target": "Distrito", "type": "11", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Single", "target": "La Bici", "type": "11", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Single", "target": "Chop Chop", "type": "11", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Eléctrica", "target": "Distrito", "type": "10", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Eléctrica", "target": "People", "type": "10", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Eléctrica", "target": "Chop Chop", "type": "10", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Fixie", "target": "Distrito", "type": "9", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Fixie", "target": "People", "type": "9", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Fixie", "target": "Chop Chop", "type": "9", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Urbana", "target": "Distrito", "type": "8", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Urbana", "target": "Transvision", "type": "8", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Urbana", "target": "La Bici", "type": "8", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Urbana", "target": "Chop Chop", "type": "8", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Urbana", "target": "Benotto", "type": "8", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Plegable", "target": "People", "type": "7", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Plegable", "target": "A la Montaña", "type": "7", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Plegable", "target": "Transvision", "type": "7", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Plegable", "target": "Benotto", "type": "7", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Turismo", "target": "Distrito", "type": "6", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Turismo", "target": "Benotto", "type": "6", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Eléctrica ", "target": "People", "type": "5", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Eléctrica ", "target": "A la Montaña", "type": "5", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Híbrida", "target": "Distrito", "type": "4", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Híbrida", "target": "People", "type": "4", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Híbrida", "target": "Ciclópolis", "type": "4", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Híbrida", "target": "Chop Chop", "type": "4", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Cargo", "target": "People", "type": "3", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Contra", "target": "People", "type": "2", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Tandem", "target": "Benotto", "type": "1", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" }
+]

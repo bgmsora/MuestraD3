@@ -1,0 +1,54 @@
+[
+    { "source": "Distrito", "target": "Ruta", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Distrito", "target": "Urbana", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Distrito", "target": "Montaña", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Distrito", "target": "Híbrida", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Distrito", "target": "Fixie", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Distrito", "target": "Single", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Distrito", "target": "Eléctrica", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Distrito", "target": "Turismo", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "People", "target": "Ruta", "type": "family", "x": "-12", "y": "-5", "note": "People and Transvision love each other" },
+    { "source": "People", "target": "Híbrida", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Montaña Sun" },
+    { "source": "People", "target": "Montaña", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Ruby Moon" },
+    { "source": "People", "target": "Eléctrica", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Ruby Moon" },
+    { "source": "People", "target": "Eléctrica ", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Ruby Moon" },
+    { "source": "People", "target": "Plegable", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Ruby Moon" },
+    { "source": "People", "target": "Contra", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Ruby Moon" },
+    { "source": "People", "target": "Cargo", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Ruby Moon" },
+    { "source": "People", "target": "Fixie", "type": "family", "x": "-12", "y": "-5", "note": "People is the master of the Guardian Ruby Moon" },
+
+    { "source": "A la Montaña", "target": "Montaña", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "A la Montaña", "target": "Ruta", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "A la Montaña", "target": "Plegable", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "A la Montaña", "target": "Eléctrica ", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+
+    { "source": "Transvision", "target": "Urbana", "type": "family", "x": "24", "y": "92", "note": "Eléctrica and Transvision used to date before she moved to study abroad" },
+    { "source": "Transvision", "target": "Ruta", "type": "family", "x": "24", "y": "92", "note": "Eléctrica and Transvision used to date before she moved to study abroad" },
+    { "source": "Transvision", "target": "Montaña", "type": "family", "x": "24", "y": "92", "note": "Eléctrica and Transvision used to date before she moved to study abroad" },
+    { "source": "Transvision", "target": "Plegable", "type": "family", "x": "24", "y": "92", "note": "Eléctrica and Transvision used to date before she moved to study abroad" },
+
+    { "source": "La Bici", "target": "Ruta", "type": "family", "x": "38", "y": "63", "note": "Ciclópolis and A la Montaña love each other and were married until her death" },
+    { "source": "La Bici", "target": "Urbana", "type": "family", "x": "38", "y": "63", "note": "Ciclópolis and A la Montaña love each other and were married until her death" },
+    { "source": "La Bici", "target": "Montaña", "type": "family", "x": "38", "y": "63", "note": "Ciclópolis and A la Montaña love each other and were married until her death" },
+    { "source": "La Bici", "target": "Single", "type": "family", "x": "38", "y": "63", "note": "Ciclópolis and A la Montaña love each other and were married until her death" },
+    { "source": "La Bici", "target": "Plegable", "type": "family", "x": "38", "y": "63", "note": "Ciclópolis and A la Montaña love each other and were married until her death" },
+
+    { "source": "Ciclópolis", "target": "Ruta", "type": "family", "x": "-28", "y": "25", "note": "Ciclópolis is Eléctrica's mother" },
+    { "source": "Ciclópolis", "target": "Montaña", "type": "family", "x": "-28", "y": "25", "note": "Ciclópolis is Eléctrica's mother" },
+    { "source": "Ciclópolis", "target": "Híbrida", "type": "family", "x": "-28", "y": "25", "note": "Ciclópolis is Eléctrica's mother" },
+
+    { "source": "Chop Chop", "target": "Single", "type": "family", "x": "-4", "y": "30", "note": "Due to Eléctrica's magical powers, Ruby Moon has a 'crush' on him" },
+    { "source": "Chop Chop", "target": "Fixie", "type": "family", "x": "-4", "y": "30", "note": "Due to Eléctrica's magical powers, Ruby Moon has a 'crush' on him" },
+    { "source": "Chop Chop", "target": "Ruta", "type": "family", "x": "-4", "y": "30", "note": "Due to Eléctrica's magical powers, Ruby Moon has a 'crush' on him" },
+    { "source": "Chop Chop", "target": "Híbrida", "type": "family", "x": "-4", "y": "30", "note": "Due to Eléctrica's magical powers, Ruby Moon has a 'crush' on him" },
+    { "source": "Chop Chop", "target": "Urbana", "type": "family", "x": "-4", "y": "30", "note": "Due to Eléctrica's magical powers, Ruby Moon has a 'crush' on him" },
+    { "source": "Chop Chop", "target": "Eléctrica", "type": "family", "x": "-4", "y": "30", "note": "Due to Eléctrica's magical powers, Ruby Moon has a 'crush' on him" },
+
+    { "source": "Benotto", "target": "Tandem", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Benotto", "target": "Montaña", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Benotto", "target": "Ruta", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Benotto", "target": "Turismo", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Benotto", "target": "Urbana", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" },
+    { "source": "Benotto", "target": "Plegable", "type": "family", "x": "-28", "y": "25", "note": "Eléctrica is Benotto's older brother" }
+]
